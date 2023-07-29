@@ -1,0 +1,17 @@
+.logint__in,.moret__in{
+    display:flex;
+    align-items: center;
+    padding: 0px 7px;
+    
+}
+
+
+
+.logint__in:hover,.moret__in:hover{
+    background-color:rgb(245,233,233);
+    cursor: pointer;
+}
+
+.logint__in{
+    width: 200px;
+}
